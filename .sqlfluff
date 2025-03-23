@@ -1,0 +1,6 @@
+[sqlfluff]
+dialect = sqlserver
+templater = jinja
+
+[sqlfluff:indentation]
+tab_space_size = 4
